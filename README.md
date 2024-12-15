@@ -1,5 +1,6 @@
 Use Web6 2.79 version test to run SEED-AI.
 Artificial Intelligence，Computer Graphics，Future Experiences.
+![Uploading d47ea8131599d667386c3cd4e574754.png…]()
 
 This example demonstrates how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and the `streamUI` function to create generative user interfaces by streaming React Server Components to the client.
 
@@ -36,6 +37,6 @@ To run the example locally you need to:
 
 To learn more about Vercel AI SDK or Next.js take a look at the following resources:
 
-- [Vercel AI SDK docs](https://sdk.vercel.ai/docs)
-- [Vercel AI Playground](https://play.vercel.ai)
+- [SEED AI SDK docs](https://seedsol.net/docs)
+- [SEED AI Playground](https://seedsol.net)
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
