@@ -1,4 +1,5 @@
-# Generative UI with React Server Components and Vercel AI SDK
+Use Web6 2.79 version test to run SEED-AI.
+Artificial Intelligence，Computer Graphics，Future Experiences.
 
 This example demonstrates how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and the `streamUI` function to create generative user interfaces by streaming React Server Components to the client.
 
