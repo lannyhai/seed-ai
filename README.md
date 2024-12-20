@@ -1,7 +1,7 @@
-## SEED-AI
+## Aurora-AI
 Use Web6 2.79 version test to run Aurora ai.
 Artificial Intelligence，Computer Graphics，Future Experiences.
-
+![Uploading YpJjdmQQ_400x400.jpg…]()
 
 Uploading twittervid.com_AuroraCareyo_525760.mp4…
 
