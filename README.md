@@ -1,6 +1,10 @@
 ## SEED-AI
-Use Web6 2.79 version test to run SEED-AI.
+Use Web6 2.79 version test to run Aurora ai.
 Artificial Intelligence，Computer Graphics，Future Experiences.
+
+
+Uploading twittervid.com_AuroraCareyo_525760.mp4…
+
 
 This example demonstrates how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and the `streamUI` function to create generative user interfaces by streaming React Server Components to the client.
 
